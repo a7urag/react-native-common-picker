@@ -4,7 +4,8 @@
   "description": "React native picker for both IOS and android with similar behaviour.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "flow": "flow"
   },
   "repository": {
     "type": "git",
@@ -23,5 +24,12 @@
   "bugs": {
     "url": "https://github.com/a7urag/react-native-common-picker/issues"
   },
-  "homepage": "https://github.com/a7urag/react-native-common-picker#readme"
+  "homepage": "https://github.com/a7urag/react-native-common-picker#readme",
+  "dependencies": {
+    "react": "^16.6.3",
+    "react-native": "^0.57.7"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.87.0"
+  }
 }
