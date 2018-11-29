@@ -1,0 +1,27 @@
+{
+  "name": "react-native-common-picker",
+  "version": "1.0.0",
+  "description": "React native picker for both IOS and android with similar behaviour.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a7urag/react-native-common-picker.git"
+  },
+  "keywords": [
+    "react-native",
+    "picker",
+    "android",
+    "ios",
+    "custom",
+    "picker"
+  ],
+  "author": "a7urag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a7urag/react-native-common-picker/issues"
+  },
+  "homepage": "https://github.com/a7urag/react-native-common-picker#readme"
+}
